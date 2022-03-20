@@ -28,12 +28,12 @@ h1{
 #one{
     position:fixed;
     top:250px;
-    left:350px;
+    left:250px;
 }
 #two{
     position:fixed;
     top:250px;
-    right:350px;
+    right:250px;
 }
 P{
     font-size:2.5rem;

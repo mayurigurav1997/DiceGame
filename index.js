@@ -22,9 +22,9 @@ document.addEventListener('click', function () {
         document.querySelector('h1').innerHTML = "🏆The Winner is User 1";
     }
     else if (firstRandomNum < secondRandomNum) {
-        document.querySelector('h1').innerHTML = "The Winner is User 2 🏆";
+        document.querySelector('h1').innerHTML = "The Winner is User 2🏆";
     }
     else {
-        document.querySelector('h1').innerHTML = "Its is Draw";
+        document.querySelector('h1').innerHTML = "It is Draw";
     }
 })

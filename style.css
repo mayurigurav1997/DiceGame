@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height:100vh;
+    background:linear-gradient(to right,pink,rgb(241, 97, 241));
+}
+.wrapper{
+    width:70%;
+    /* it will set block to center horizontally */
+    margin:auto;    
+    text-align : center;
+}
+h1{
+    margin:20px;
+    font-size:6rem;
+    color:white;
+}
+.dice-area{
+    margin:0px 50px;
+    text-align:center;
+    display:inline-block;
+}
+P{
+    font-size:2.5rem;
+    color:white;
+}
+
+img{
+    width:320px;
+}
+
+button{
+    color:blue;
+    font-weight:bold;
+    font-size:1rem;
+    border-radius:10px;
+    margin:20px 45%;
+    width:100px;
+    height:50px;
+}
